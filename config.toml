@@ -64,8 +64,8 @@ publishDir = "docs"
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Andreas"
-    text2 = "Ellure"
+    text1 = "Mohamed"
+    text2 = "Malhou"
 
   [params.footer]
       copyright = "© Raditian. All rights reserved."
