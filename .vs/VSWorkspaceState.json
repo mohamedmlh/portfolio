@@ -3,8 +3,14 @@
     "",
     "\\themes",
     "\\themes\\raditian-free-hugo-theme",
-    "\\themes\\raditian-free-hugo-theme\\exampleSite"
+    "\\themes\\raditian-free-hugo-theme\\layouts",
+    "\\themes\\raditian-free-hugo-theme\\layouts\\partials",
+    "\\themes\\raditian-free-hugo-theme\\static",
+    "\\themes\\raditian-free-hugo-theme\\static\\img\\clients",
+    "\\themes\\raditian-free-hugo-theme\\static\\js",
+    "\\themes\\raditian-free-hugo-theme\\static\\js\\library",
+    "\\themes\\raditian-free-hugo-theme\\static\\pdf"
   ],
-  "SelectedNode": "\\themes\\raditian-free-hugo-theme\\exampleSite\\config.toml",
+  "SelectedNode": "\\themes\\raditian-free-hugo-theme\\layouts\\partials\\client-and-work.html",
   "PreviewInSolutionExplorer": false
 }
