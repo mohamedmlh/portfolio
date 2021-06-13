@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\docs"
+    "\\docs",
+    "\\docs\\pdf",
+    "\\themes",
+    "\\themes\\raditian-free-hugo-theme",
+    "\\themes\\raditian-free-hugo-theme\\data",
+    "\\themes\\raditian-free-hugo-theme\\layouts\\partials"
   ],
   "SelectedNode": "\\docs\\index.html",
   "PreviewInSolutionExplorer": false
